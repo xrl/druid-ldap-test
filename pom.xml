@@ -11,7 +11,7 @@
     <properties>
         <maven.compiler.source>6</maven.compiler.source>
         <maven.compiler.target>6</maven.compiler.target>
-        <jackson.version>2.10.2</jackson.version>
+        <jackson.version>2.12.6.1</jackson.version>
 <!--        <repoOrgId>central</repoOrgId>-->
 <!--        <repoOrgName>Maven Central Repo</repoOrgName>-->
 <!--        <repoOrgUrl>https://repo1.maven.org/maven2/</repoOrgUrl>-->
